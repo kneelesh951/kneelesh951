@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Kneelesh%20Kumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Cloud%20Infrastructure%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Kneelesh%20Kumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20and%20Cloud%20Infrastructure%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://github.com/kneelesh951">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+production-grade+web+platforms;Automating+AWS+infrastructure+with+Terraform;Shipping+full-stack+apps+end-to-end;Open+to+collaboration+%26+new+opportunities&font=Fira+Code&center=true&width=650&height=45&color=00C9A7&vCenter=true&size=22" alt="Typing SVG" />
