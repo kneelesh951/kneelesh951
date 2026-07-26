@@ -50,24 +50,6 @@ I design and ship full-stack products end-to-end — from cloud infrastructure t
 
 ## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/kneelesh951/offmap">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kneelesh951&repo=offmap&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/kneelesh951/terraformFinal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kneelesh951&repo=terraformFinal&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-
-<a href="https://github.com/kneelesh951/terraform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kneelesh951&repo=terraform&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/kneelesh951/tfcode">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kneelesh951&repo=tfcode&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-
-</div>
-
 | Project | Description | Stack |
 |---|---|---|
 | **[Offmap](https://github.com/kneelesh951/offmap)** | Peer-to-peer local-experience platform connecting travelers with verified local hosts | Next.js 14 · TypeScript · Supabase · Drizzle ORM · Stripe · Docker |
@@ -79,9 +61,6 @@ I design and ship full-stack products end-to-end — from cloud infrastructure t
 ## GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kneelesh951&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kneelesh951&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kneelesh951&theme=tokyonight&hide_border=true&border_radius=10" width="60%" />
 
